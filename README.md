@@ -16,7 +16,8 @@ You're going to need a [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi
 
 ### Windows Experiments
 [Microsoft Windows](https://en.wikipedia.org/wiki/Operating_system#Microsoft_Windows) is a familiar [operating system](https://en.wikipedia.org/wiki/Operating_system) in which we can perform experiments, run commands, and build software applications. In addition to the experiments, we'll go over a few things to help prevent hurting your Windows machine.
-* Experiment 1 - Coming soon!
+* [Experiment 1](https://github.com/brian1568/learning-to-code/blob/main/experiments/windows/basics/command-prompt.md) - Using the Windows Command Prompt
+* Experiment 2 - Stay tuned...
 
 ### Linux Experiments
 [Linux](https://en.wikipedia.org/wiki/Operating_system#Linux) is a widely used [operating system](https://en.wikipedia.org/wiki/Operating_system) for software development. There are several ways to obtain and use a Linux machine. Hint: Raspberry Pi comes with Linux already installed! There are also ways to run Linux within Windows!
